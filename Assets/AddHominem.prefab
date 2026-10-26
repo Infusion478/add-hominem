@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 114949333256948750}
   - component: {fileID: 114535069035673636}
   m_Layer: 0
-  m_Name: AddNauseam
+  m_Name: AddHominem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2267,17 +2267,17 @@ MonoBehaviour:
   info: {fileID: 114117487098895518}
   buttons:
   - {fileID: 114142711493551364}
-  - {fileID: 114094791615779966}
   - {fileID: 114807244958924558}
   - {fileID: 114718397081052854}
+  - {fileID: 114094791615779966}
   displays:
   - {fileID: 102561271030353654}
   - {fileID: 102638813488564988}
   - {fileID: 102500344407973778}
   - {fileID: 102651741573821882}
-  - {fileID: 102814699873055106}
   - {fileID: 102437178523322838}
   - {fileID: 102729516530527250}
+  - {fileID: 102814699873055106}
 --- !u!114 &114578380879719648
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2478,8 +2478,8 @@ MonoBehaviour:
   m_Script: {fileID: -119419473, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModuleType: addNauseam
-  ModuleDisplayName: Add Nauseam
+  ModuleType: addHominem
+  ModuleDisplayName: Add Hominem
   RequiresTimerVisibility: 0
 --- !u!114 &114946966761485528
 MonoBehaviour:

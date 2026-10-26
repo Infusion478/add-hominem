@@ -11,14 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: addNauseam
-  title: Add Nauseam
-  author: Speakingevil
-  description: 'Pop Quiz! I hope you''ve been studying.
-
-
-    Quickly respond to each of the promtps, taking note of the values and positions
-    of each correct answer to determine the correct passcode.'
-  version: 1.0
+  id: addHominem
+  title: Add Hominem
+  author: Infusion
+  description: "I don't care if you've been studying because you're going to \nbe
+    wrong anyway.\n\nQuickly respond to each of the prompts while avoiding previous
+    ones, taking note of the values and positions of each correct answer to determine
+    the correct passcode.\n\nThis module was released as a manual challenge.\n\nModeling
+    originally by Speakingevil.\n\nManual can be found at ktane.timwi.de or in the
+    bundled manuals folder.\nSource code is at https://github.com/Infusion478/add-hominem\n\nComes
+    with Twitch Plays support."
+  version: 1.1
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 4899e3b59a48d914dae4fd73a0f55e3e, type: 3}
+  previewImage: {fileID: 2800000, guid: 495a92d059fe4c241945e778494a5aa3, type: 3}
